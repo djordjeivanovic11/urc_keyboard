@@ -1,0 +1,4 @@
+opencv-python
+pytesseract
+pyautogui
+pyobjc; sys_platform == "darwin"
